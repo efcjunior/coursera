@@ -1,1 +1,1 @@
-# r-programming
+# r-programming lessons
